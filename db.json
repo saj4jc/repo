@@ -1,0 +1,26 @@
+{
+	"ResponseCode":"200",
+	"ResponseData":[
+	{
+		"TokenId":"2471",
+		"TokenNo":"NC١",
+		"InDateTime":"2016-08-04 13:53:43.960",
+		"CallTime":"2016-08-04 13:54:03.133",
+		"LangType":"2",
+		"LangPrefix":"A",
+		"CounterNo":"1",
+		"ModifiedDateTime":"2016-08-04 13:54:03.130"
+	},
+	{
+		"TokenId":"2473",
+		"TokenNo":"IT3",
+		"InDateTime":"2016-08-04 14:23:39.727",
+		"CallTime":"2016-08-04 14:23:48.187",
+		"LangType":"1",
+		"LangPrefix":"E",
+		"CounterNo":"2",
+		"ModifiedDateTime":"2016-08-04 14:23:48.183"
+	}],
+	"ResponseMessage":"Success",
+	"RequestDateTime":"2016-08-04 14:31:40.499"
+}
